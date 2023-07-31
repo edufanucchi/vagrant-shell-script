@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Curso/Mentoria/vagrant01/projeto02/vagrant-shell-script/site","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Curso/Mentoria/vagrant01/projeto02/vagrant-shell-script","disabled":false,"__vagrantfile":true}}}
